@@ -1,0 +1,17 @@
+
+.container {
+    margin-top: 50px;
+  }
+  
+#desc{
+    color: white;
+}
+
+#price{
+  color: rgb(130, 22, 22);
+}
+
+#float{
+  float: left ;
+}
+

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-size: cover; /* Cover the entire page */
+    background-position: center center; /* Center the background image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-color: #e6fff1ce; /* Fallback color */
+    min-height: 100vh; /* Ensure the body takes up the full height of the viewport */
+    margin: 0; /* Remove default margin to make the background span the whole page */
+
+}
